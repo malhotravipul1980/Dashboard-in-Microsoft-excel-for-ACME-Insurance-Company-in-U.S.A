@@ -1,0 +1,25 @@
+I access data from website (keggle/Github) to analysis the Insurance charge that is commonly known as Premium. Customer pay the Premium for the health insurance in lieu of Insurance Company bare liablities for Health Check up of the Customer. In concern with BMI
+In these times, when fitness is what everyone seems to be talking about, BMI is used a lot. But most of us lack clarity on what exactly BMI is. Let us make it easier for you.
+BMI or Body Mass Index is a ratio of weight and height. It can be defined as the weight in kilograms, divided by the square of the height in metres. This ratio is used to classify whether a person is underweight, overweight or obese.
+
+How do you calculate BMI?
+There are three easy methods to calculate BMI-
+The BMI calculation formula You can easily calculate the BMI manually using the following formula.
+The BMI calculation formula=   	Weight of the person (in kg)
+	(Height of the person)2 (in m2)
+A BMI which is less than 18.5 signifies you are underweight.
+A BMI between 18.5 and 24.9 is normal for a healthy adult.
+A BMI that is between 25 and 29.9 signifICies that you are overweight for your height.
+A BMI that is beyond 30 indicates that you are Obesity.
+
+About Data
+
+Column Name 	Data Type	Primary Key	Null
+'age',			'int', 			YES', '', 		NULL, ''
+'sex', 			'text', 		'YES', '', 		NULL, ''
+'bmi', 'double', 'YES', '', NULL, ''
+'children', 'int', 'YES', '', NULL, ''
+'smoker', 'text', 'YES', '', NULL, ''
+'region', 'text', 'YES', '', NULL, ''
+'charges', 'double', 'YES', '', NULL, ''
+
